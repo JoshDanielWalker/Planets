@@ -1,27 +1,36 @@
 [submodule "Mercury"]
 	path = Mercury
 	url = git@github.com:JoshDanielWalker/Mercury.git
+	branch = master
 [submodule "Venus"]
 	path = Venus
 	url = git@github.com:JoshDanielWalker/Venus.git
+	branch = master
 [submodule "Earth"]
 	path = Earth
 	url = git@github.com:JoshDanielWalker/Earth.git
+	branch = master
 [submodule "Mars"]
 	path = Mars
 	url = git@github.com:JoshDanielWalker/Mars.git
+	branch = master
 [submodule "Jupiter"]
 	path = Jupiter
 	url = git@github.com:JoshDanielWalker/Jupiter.git
+	branch = master
 [submodule "Saturn"]
 	path = Saturn
 	url = git@github.com:JoshDanielWalker/Saturn.git
+	branch = master
 [submodule "Uranus"]
 	path = Uranus
 	url = git@github.com:JoshDanielWalker/Uranus.git
+	branch = master
 [submodule "Neptune"]
 	path = Neptune
 	url = git@github.com:JoshDanielWalker/Neptune.git
+	branch = master
 [submodule "Pluto"]
 	path = Pluto
 	url = git@github.com:JoshDanielWalker/Pluto.git
+	branch = master
