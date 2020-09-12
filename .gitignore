@@ -1,0 +1,13 @@
+# Git Submodule
+/Mercury/*
+/Venus/*
+/Earth/*
+/Mars/*
+/Ceres/*
+/Jupiter/*
+/Saturn/*
+/Uranus/*
+/Neptune/*
+/Pluto/*
+
+.DS_Store
